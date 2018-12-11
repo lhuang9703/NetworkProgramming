@@ -1,2 +1,2 @@
 # NetworkProgramming
-Labs of Network Programming cource@COMP130070.01
+Labs of Network Programming course@COMP130070.01
